@@ -31,9 +31,6 @@ EXTRA_UDFPS_ANIMATIONS := true
 # Blur
 TARGET_ENABLE_BLUR := true
 
-# BCR (Call recording)
-TARGET_PREBUILT_BCR := true
-
 # Lawnchair (Pixel launcher by default)
 TARGET_INCLUDE_PIXEL_LAUNCHER := true
 TARGET_DEFAULT_PIXEL_LAUNCHER := true
